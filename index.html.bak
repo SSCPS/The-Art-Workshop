@@ -1,64 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta content="text/html; charset=utf-8" http-equiv="content-type">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="The Art Workshop : SSCPS Art  Workshop Gallery">
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <title>The Art Workshop</title>
-  </head>
-  <body>
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-      <header class="inner">
-        <h1 id="project_title">The Art Workshop</h1>
-        <h2 id="project_tagline">SSCPS Art Workshop Gallery</h2>
-        <section id="downloads"> </section>
-      </header>
-    </div>
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1> <a name="welcome-to-the-art-workshop" class="anchor" href="#welcome-to-the-art-workshop"><span
-              class="octicon octicon-link"></span></a>Welcome
-          to the Art Workshop</h1>
-        <p>The Art Workshop is a program in South Shore Charter Public School
-          that allows its students to expand on their abilities and test their
-          skills as artists. Here at the Art Workshop we make works of art and
-          showcase them in contests to compete nationwide, including the Boston
-          Globe All Scholastic Art Awards!</p>
-        <h2> <a id="Drawing Studio Anchor" name="drawing-studio" class="anchor"
-            href="DrawingStudio.html"><span
-              class="octicon octicon-link"></span></a><a
-            title="Drawing Studio"
-            href="DrawingStudio.html">Drawing
-            Studio</a> </h2>
-        <h2> <a name="painting" class="anchor" href="#painting"><span class="octicon octicon-link"></span></a><a
-            href="Painting.html">Painting</a>
-        </h2>
-        <h2> <a name="fashion" class="anchor" href="#fashion"><span class="octicon octicon-link"></span></a><a
-            target="_top"
-            href="Fashion.html">Fashion</a>
-        </h2>
-        <h2> <a name="3d" class="anchor" href="#3d"><span class="octicon octicon-link"></span></a><a
-            href="3D.html">3D</a>
-        </h2>
-        <h2> <a name="portraituresculpture--life" class="anchor" href="#portraituresculpture--life"><span
-              class="octicon octicon-link"></span></a><a
-            href="PortraitureSculptureLife.html">Portraiture,
-            Sculpture, &amp; Life</a> </h2>
-            <h2> <a name="Photography" class="anchor" href="#photography"><span class="octicon octicon-link"></span></a><a href="Photography.html">Photography</a></h2>
-        <p>Also be sure to check out <a href="http://tylertsang.github.io/The-Art-Store">art
-            store</a> for available works to buy from faculty, alumnus, and
-          students!</p>
-      </section>
-    </div>
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p style="text-align: center;" class="copyright">© COPYRIGHT 2014. ALL
-          RIGHTS</p>
-      </footer>
-    </div>
-  </body>
-</html>
+<!DOCTYPE html><html>  <head>    <meta content="text/html; charset=utf-8" http-equiv="content-type">    <meta http-equiv="X-UA-Compatible" content="chrome=1">    <meta name="description" content="The Art Workshop : SSCPS Art  Workshop Gallery">    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">    <title>The Art Workshop</title>  </head>  <body>    <!-- HEADER -->    <div id="header_wrap" class="outer">      <header class="inner">        <h1 style="text-align: center;" id="project_title">The Art Workshop</h1>        <h2 style="text-align: center;" id="project_tagline">SSCPS Art Workshop          Gallery</h2>        <hr>        <p style="text-align: center;"><span style="color: white;">Also be sure            to check <a style="font-weight: bold; color: #0ce9ff;" href="http://tylertsang.github.io/The-Art-Store"><span                style="font-family: 'Lucida Grande','Calibri',Helvetica,Arial,sans-serif;">The
+                </span>ART STORE</a><span style="font-family: 'Myriad Pro',Calibri,Helvetica,Arial,sans-serif;">            </span>for available </span><span style="color: white;">works <br>          </span></p>        <p style="text-align: center;"><span style="color: white;">from faculty,            alumnus, and students!</span> </p>        <section id="downloads"> </section>      </header>    </div>    <!-- MAIN CONTENT -->    <div id="main_content_wrap" class="outer">      <section id="main_content" class="inner">        <h1 style="text-align: center;"> <a name="welcome-to-the-art-workshop"            class="anchor"            href="#welcome-to-the-art-workshop"><span              class="octicon octicon-link"></span></a>Welcome
+          to the Art Workshop</h1>        <p style="text-align: center;">The Art Workshop is a program in South          Shore Charter Public School that allows its students to expand on          their abilities and test their skills as artists. Here at the Art          Workshop we make works of art and showcase them in contests to compete          nationwide, including the Boston Globe All Scholastic Art Awards!</p>        <h2 style="text-align: center;"> <a id="Drawing Studio Anchor" name="drawing-studio"            class="anchor"            href="DrawingStudio.html"><span              class="octicon octicon-link"></span></a><a            title="Drawing Studio"            href="DrawingStudio.html">Drawing
+            Studio</a> </h2>        <h2 style="text-align: center;"> <a name="painting" class="anchor" href="#painting"><span              class="octicon octicon-link"></span></a><a            href="Painting.html">Painting</a>        </h2>        <h2 style="text-align: center;"> <a name="fashion" class="anchor" href="#fashion"><span              class="octicon octicon-link"></span></a><a            target="_top"            href="Fashion.html">Fashion</a>        </h2>        <h2 style="text-align: center;"> <a name="3d" class="anchor" href="#3d"><span              class="octicon octicon-link"></span></a><a            href="3D.html">3D</a>        </h2>        <h2 style="text-align: center;"> <a name="portraituresculpture--life" class="anchor"            href="#portraituresculpture--life"><span              class="octicon octicon-link"></span></a><a            href="PortraitureSculptureLife.html">Portraiture,
+            Sculpture, &amp; Life</a> </h2>        <h2 style="text-align: center;"> <a name="Photography" class="anchor" href="#photography"><span              class="octicon octicon-link"></span></a><a            href="Photography.html">Photography</a></h2>      </section>    </div>    <!-- FOOTER  -->    <div id="footer_wrap" class="outer">      <footer class="inner">        <p style="text-align: center;" class="copyright">© COPYRIGHT 2014. ALL          RIGHTS</p>        <p style="text-align: center;" class="copyright"><br>        </p>      </footer>    </div>  </body></html>
