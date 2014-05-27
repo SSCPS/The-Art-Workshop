@@ -5,35 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="The Art Workshop : SSCPS Art  Drawing Studio">
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <title>Drawing Studio</title>
+    <title>Painting</title>
   </head>
   <body>
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-      <header class="outer">
-        <h1 style="margin-left: 40px;" id="project_title"><a target="_top" title="Home"
-            href="index.html"><img longdesc="index.html" style="width: 176px; height: 176px;"
-              title="Art Workshop Home" alt="Art Workshop Home" src="images/Site%20Nav/Art%20Workshop%20Logo%20jpeg.jpg"></a>
-          <a href="index.html" <="" h1="">
-            <h1 style="text-align: center;" id="project_title">Drawing Studio</h1>
-            <h3 style="text-align: center;" id="project_tagline"><br>
-            </h3>
-            <section id="downloads"> </section>
-          </a></h1>
-      </header>
-      <a href="index.html" <="" h1=""> </a></div>
-    <a href="index.html" <="" h1="">
+    <!-- HEADER -->&nbsp;&nbsp; &nbsp;
+    <header class="outer">
+      <div id="header_wrap" class="outer">
+        <div style="margin-left: 40px;">&nbsp; <a target="_top" title="Home" href="index.html"><img
+              style="width: 176px; height: 176px;" title="Art Workshop Home" alt="Art Workshop Home"
+              src="images/Categories/Site%20Nav/Art%20Workshop%20Logo%20jpeg.jpg"></a>
+        </div>
+        <a href="index.html">
+          <h1 style="text-align: center;" id="project_title">Mixed Media</h1>
+          <h3 style="text-align: center;" id="project_tagline"><br>
+          </h3>
+          <section id="downloads"> </section>
+        </a></div>
+      <a href="index.html"> </a></header>
+    <a href="index.html">
       <!-- MAIN CONTENT --> </a>
-    <div id="main_content_wrap" class="outer"><a href="index.html" <="" h1=""> </a>
-      <section id="main_content" class="inner"><a href="index.html" <="" h1="">
-        </a>
-        <h1 style="text-align: center;"><a href="index.html" <="" h1=""> </a><a
-            name="welcome-to-the-art-workshop" class="anchor" href="#welcome-to-the-art-workshop"><span
-              class="octicon octicon-link"></span></a>Drawing Studio Pieces</h1>
-        <p style="text-align: center;">Here at the drawing studio students test
-          their abilities by drawing with mediums such as ink or pencil.
-          Students are then told to draw with different styles and designs to
-          convey the concepts of the referenced image.</p>
+    <div id="main_content_wrap" class="outer"><a href="index.html"> </a>
+      <section id="main_content" class="inner"><a href="index.html"> </a>
+        <h1 style="text-align: center;"><a href="index.html"> </a><a name="welcome-to-the-art-workshop"
+            class="anchor" href="#welcome-to-the-art-workshop"><span class="octicon octicon-link"></span></a>Painting
+          Pieces</h1>
+        <p style="text-align: center;">Here at painting the art students are
+          enable to use the most famous of all art mediums, paint. The art
+          students get to explore how paint can be modified to fit their visions
+          and create an image that is one of a kind. Most of the paintings
+          displayed are made from acrylics.</p>
         <hr><br>
         <table style="width: 100%" border="1">
           <tbody>
