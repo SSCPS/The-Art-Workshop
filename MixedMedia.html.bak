@@ -35,46 +35,52 @@
           combine into a single piece. This creates a uniqueness to the artwork
           and makes the art pieces more interesting.<br>
         </p>
-        <table style="width: 100%" border="1">
+        <table style="width: 160px; height: 240px;" border="1">
           <tbody>
             <tr>
-              <td><br>
+              <td><img style="width: 178px; height: 235px;" alt="AnaE" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/AnaE3.JPG"><br>
               </td>
-              <td><br>
+              <td><img style="width: 227px; height: 300px;" alt="TylerJ" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/DSCN0988.JPG"><br>
               </td>
-              <td><br>
-              </td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-              <td><br>
-              </td>
-              <td><br>
+              <td><img style="width: 166px; height: 245px;" alt="ElvisT" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/ElvisT.JPG"><br>
               </td>
             </tr>
             <tr>
-              <td><br>
+              <td><img style="width: 275px; height: 205px;" alt="IlaW" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/IlaW%20%282%29.jpg"><br>
               </td>
-              <td><br>
+              <td><img style="width: 171px; height: 253px;" alt="IlaW" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/IlaW.JPG"><br>
               </td>
-              <td><br>
-              </td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-              <td><br>
-              </td>
-              <td><br>
+              <td><img style="width: 244px; height: 186px;" alt="JohnnieJ" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/JonnyJ.JPG"><br>
               </td>
             </tr>
             <tr>
-              <td><br>
+              <td style="text-align: center;"><img style="width: 301px; height: 450px;"
+                  alt="KatherineG" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/KatherineG.JPG"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><img style="width: 246px; height: 200px;"
+                  alt="KayleeA" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/KayleeA.jpg"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><img style="width: 314px; height: 231px;"
+                  alt="KayleeA" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/KayleeA1.jpg"><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;"><img alt="MaddieW" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/MaddieW.JPG"><br>
+              </td>
+              <td style="text-align: center;"><img alt="MorganR" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/MorganR.JPG"><br>
+              </td>
+              <td style="text-align: center;"><img style="width: 271px; height: 208px;"
+                  alt="TylerT" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/TylerT%20%282%29.JPG"><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;"><img style="width: 310px; height: 674px;"
+                  alt="TylerT" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/TylerT.JPG"><br>
+              </td>
+              <td style="text-align: center;"><img alt="TylerT" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/MixedMedia/SelectedMixedMedia/TylerT1.JPG"><br>
+              </td>
+              <td style="text-align: center;"><img style="width: 255px; height: 171px;"
+                  alt="TylerT" src="images/Categories/MixedMedia/SelectedMixedMedia/TylerT2.JPG"><br>
               </td>
             </tr>
           </tbody>
