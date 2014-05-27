@@ -38,43 +38,43 @@
         <table style="width: 100%" border="1">
           <tbody>
             <tr>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
-              </td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-              <td><br>
-              </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
             </tr>
             <tr>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
-              </td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-              <td><br>
-              </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
             </tr>
             <tr>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;"><br>
+              </td>
+              <td style="text-align: center;"><br>
+              </td>
+              <td style="text-align: center;"><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;"><br>
+              </td>
+              <td style="text-align: center;"><br>
+              </td>
+              <td style="text-align: center;"><br>
               </td>
             </tr>
           </tbody>
@@ -83,7 +83,8 @@
         <!-- FOOTER  -->
         <div id="footer_wrap" class="outer" align="center">
           <footer class="inner">
-            <p class="copyright">Copyright 2014. All Rights Reserved.</p>
+            <p style="text-align: center;" class="copyright">Copyright 2014. All
+              Rights Reserved.</p>
           </footer>
         </div>
       </section>
