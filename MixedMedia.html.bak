@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="The Art Workshop : SSCPS Art  Drawing Studio">
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <title>Painting</title>
+    <title>Mixed Media</title>
   </head>
   <body>
     <!-- HEADER -->&nbsp;&nbsp; &nbsp;
@@ -27,14 +27,14 @@
     <div id="main_content_wrap" class="outer"><a href="index.html"> </a>
       <section id="main_content" class="inner"><a href="index.html"> </a>
         <h1 style="text-align: center;"><a href="index.html"> </a><a name="welcome-to-the-art-workshop"
-            class="anchor" href="#welcome-to-the-art-workshop"><span class="octicon octicon-link"></span></a>Painting
-          Pieces</h1>
-        <p style="text-align: center;">Here at painting the art students are
-          enable to use the most famous of all art mediums, paint. The art
-          students get to explore how paint can be modified to fit their visions
-          and create an image that is one of a kind. Most of the paintings
-          displayed are made from acrylics.</p>
-        <hr><br>
+            class="anchor" href="#welcome-to-the-art-workshop"><span class="octicon octicon-link"></span></a>Mixed
+          Media Pieces</h1>
+        <p style="text-align: center;">Mixed media is an art form utilizing
+          multiple mediums in order to achieve a piece, this includes the use of
+          various surfaces, materials, and a combination of other forms to
+          combine into a single piece. This creates a uniqueness to the artwork
+          and makes the art pieces more interesting.<br>
+        </p>
         <table style="width: 100%" border="1">
           <tbody>
             <tr>
