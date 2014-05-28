@@ -40,20 +40,25 @@
             <tr>
               <td style="text-align: center;"><img style="width: 159px; height: 123px;"
                   title="TylerJ" alt="TylerJ" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/Painting/SelectedPainting/DSCN0989.JPG"><br>
+                Piece By: Tyler J.<br>
               </td>
-              <td><img style="width: 147px; height: 114px;" title="IlaW" alt="IlaW"
-                  src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/Painting/SelectedPainting/IlaWhite3.jpg"><br>
+              <td style="text-align: center;"><img style="width: 147px; height: 114px;"
+                  title="IlaW" alt="IlaW" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/Painting/SelectedPainting/IlaWhite3.jpg"><br>
+                Piece By: Ila<br>
               </td>
-              <td><img style="width: 173px; height: 102px;" title="KayleeA" alt="KayleeA"
-                  src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/Painting/SelectedPainting/KayleeA.jpg"><br>
+              <td style="text-align: center;"><img style="width: 173px; height: 102px;"
+                  title="KayleeA" alt="KayleeA" src="file:///C:/Users/Tyler.%20T/Desktop/GitHub/The-Art-Workshop/images/Categories/Painting/SelectedPainting/KayleeA.jpg"><br>
+                Piece By: Kaylee<br>
               </td>
             </tr>
             <tr>
-              <td><br>
+              <td style="text-align: center"><img style="width: 159px; height:123px;"><img
+                  alt="TylerT" src="images/Categories/Painting/SelectedPainting/TylerT.JPG"><br>
+                <br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
-              <td><br>
+              <td style="text-align: center;"><br>
               </td>
             </tr>
           </tbody>
